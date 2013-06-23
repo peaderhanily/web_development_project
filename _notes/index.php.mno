@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:agestatus;datatype:string,name:club;datatype:string,name:scullstatus;datatype:string,name:sweepstatus;datatype:string,name:userlevel;datatype:string,name:username;datatype:string" />
+	<infoitem key="UD_rstusers" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:email;datatype:string,name:agestatus;datatype:int,name:scullstatus;datatype:int,name:sweepstatus;datatype:int,name:club;datatype:int" />
+	<infoitem key="UD_rstsearch" value="name:agestatus;datatype:string,name:club;datatype:string,name:scullstatus;datatype:string,name:sweepstatus;datatype:string,name:userlevel;datatype:string,name:username;datatype:string" />
+</info>

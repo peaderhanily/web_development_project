@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstusers" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:email;datatype:string" />
+	<infoitem key="UD_rstuser" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:email;datatype:string,name:agestatus;datatype:int,name:scullstatus;datatype:int,name:sweepstatus;datatype:int,name:club;datatype:int" />
+	<infoitem key="UD_rstage" value="name:agestatusid;datatype:int,name:agestatus;datatype:string" />
+	<infoitem key="UD_rstScull" value="name:scullstatusid;datatype:int,name:scullstatus;datatype:string" />
+	<infoitem key="UD_rst" value="name:sweepstatusid;datatype:int,name:sweepstatus;datatype:string" />
+	<infoitem key="UD_rstClub" value="name:clubid;datatype:int,name:club;datatype:string" />
+	<infoitem key="UD_rstUserLev" value="name:userlevelid;datatype:int,name:userlevel;datatype:string" />
+</info>

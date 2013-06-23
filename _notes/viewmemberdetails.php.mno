@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstusers" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:email;datatype:string,name:agestatus;datatype:int,name:scullstatus;datatype:int,name:sweepstatus;datatype:int,name:club;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:email;datatype:string,name:userlevel_userlevel;datatype:string,name:sweepstatus_sweepstatus;datatype:string,name:scullstatus_scullstatus;datatype:string,name:club_club;datatype:string,name:agestatus_agestatus;datatype:string" />
+	<infoitem key="UD_rstcomb" value="name:userid;datatype:int,name:username;datatype:string,name:agestatus_agestatus;datatype:string,name:club_club;datatype:string,name:sweepstatus_sweepstatus;datatype:string,name:scullstatus_scullstatus;datatype:string,name:userlevel_userlevel;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:userid;datatype:int,name:username;datatype:string,name:password;datatype:string,name:userlevel;datatype:int,name:email;datatype:string,name:agestatus;datatype:int,name:scullstatus;datatype:int,name:sweepstatus;datatype:int,name:club;datatype:int" />
+	<infoitem key="UD_rstsqljoin" value="name:userid;datatype:int,name:username;datatype:string,name:agestatus_agestatus;datatype:string,name:club_club;datatype:string,name:sweepstatus_sweepstatus;datatype:string,name:scullstatus_scullstatus;datatype:string,name:userlevel_userlevel;datatype:string" />
+</info>
